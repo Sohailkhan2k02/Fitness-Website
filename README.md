@@ -3,6 +3,7 @@ Welcome to FitnessHub, your all-in-one platform for achieving your fitness goals
 Features:
 
 1 Workout Plans: Access a variety of customizable workout plans tailored to your fitness level, goals, and preferences. From strength training to cardio and yoga, we've got you covered.
+
 2 Exercise Library: Explore our extensive library of exercises with detailed instructions, videos, and tips to ensure proper form and technique.
 3 Nutrition Guides: Learn about proper nutrition and meal planning with our comprehensive guides and resources. From meal prep ideas to dietary recommendations, we'll help you fuel your body for success.
 4 Progress Tracking: Track your workouts, set goals, and monitor your progress over time with our intuitive tracking tools and visual analytics.
